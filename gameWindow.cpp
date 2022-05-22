@@ -98,7 +98,7 @@ position_string += 's';
 for(int i=0; i<position_string.length(); i++){
 std::cout << position_string[i];
 }
-// Convert from position_string to fenArray (to be implemented)
+// Convert from position_string to fenArray 
 
 
 char arr1[8],arr2[8],arr3[8],arr4[8],arr5[8],arr6[8],arr7[8],arr8[8];
