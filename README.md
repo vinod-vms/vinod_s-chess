@@ -12,7 +12,7 @@ I'm building a chess app/engine in C++ using the SDL2 library.
 
 #### How to compile
 
-This program, written using SDL2, can be compiled with `g++ *.cpp -lSDL2`
+This program  can be compiled and linked with `g++ *.cpp -lSDL2 -lSDL2_image
 
 
 
