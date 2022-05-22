@@ -1,5 +1,6 @@
 ## vinod_s-chess
-![Vinod_s_chess](https://user-images.githubusercontent.com/25525969/168419643-79ac5b89-b2d8-489d-bf15-41619eff9a6f.png)
+
+![Vinod_s_chess_start_pos](https://user-images.githubusercontent.com/25525969/169702504-f16411e7-7742-439a-a8f1-39dbd83b0720.png)
 
 
 
